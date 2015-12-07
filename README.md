@@ -1,4 +1,4 @@
-# AndroidTemplateProjectWithFragments
+# Android Template Project With Fragments
 
 An Android template project. Contains
 *Fragments
